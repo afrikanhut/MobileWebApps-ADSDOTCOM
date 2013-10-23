@@ -1,0 +1,17 @@
+BEGIN:VCARD
+VERSION:2.1
+N:Sanders;Arbin;Darren;Mr.;
+FN:Arbin Darren Sanders
+ORG:Citrix; ShareFile, SaaS Division
+TITLE:Operations Systems Engineer
+ADR;INTL;PARCEL;WORK:;;701 Corporate Center Drive, Suite 300;Raleigh;North Carolina;27607;United States
+ADR;DOM;PARCEL;HOME:;;339 Foothill Lane;Fayetteville;North Carolina;28311;United States
+EMAIL;INTERNET:arbin.sanders@citrix.com
+EMAIL;INTERNET:arbindsanders@gmail.com
+TEL;WORK:919-745-6392
+TEL;CELL:919-627-1375
+TEL;HOME:910-920-1770
+URL;WORK:http://www.sharefile.com
+URL:http://www.arbindarrensanders.com
+BDAY:19800513
+END:VCARD
